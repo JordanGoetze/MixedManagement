@@ -1,0 +1,12 @@
+Type,Group,es,ci.lb,ci.ub,cilb75,ciub75,Significance,q,n
+Sharks,Sharks,0.6274,0.4197,0.8351,0.5055,0.7493,Yes,***,66
+Rays,Rays,0.0099,-0.2716,0.2914,-0.1553,0.1752,No,***,59
+Sharks,Wide-ranging,0.0155,-0.3068,0.3379,-0.1737,0.2047,No,,40
+Sharks,Reef-associated,0.7197,0.5004,0.9391,0.591,0.8485,Yes,***,66
+Rays,Small Rays,-0.1119,-0.4649,0.2412,-0.3191,0.0954,No,,28
+Rays,Large Rays,-0.0085,-0.316,0.299,-0.189,0.172,No,,48
+Sharks,Grey Reef,0.8183,0.5025,1.134,0.6329,1.0036,Yes,**,30
+Sharks,Whitetip Reef,0.6942,0.1991,1.1892,0.4036,0.9847,Yes,**,30
+Sharks,Blacktip Reef,0.2938,-0.1504,0.7381,0.0331,0.5546,No,*,23
+Sharks,Caribbean Reef,0.8687,0.487,1.2504,0.6447,1.0927,Yes,***,18
+Sharks,Nurse,0.5632,0.2835,0.843,0.399,0.7274,Yes,,37

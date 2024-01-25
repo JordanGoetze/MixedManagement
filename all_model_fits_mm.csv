@@ -1,0 +1,4 @@
+"","modname","AICc","BIC","r2.vals","r2.vals.unique","edf","edf.less.1","delta.AICc","delta.BIC","wi.AICc","wi.BIC","log_Grav_Total_plus_min","mixed_management"
+"Shark.mixed_management","mixed_management",15337.3576398623,15446.7374489,0.10283,NA,15.37,0,0,0,1,1,0,1
+"Shark.log_Grav_Total_plus_min","log_Grav_Total_plus_min",15630.3055962285,15719.8307593224,0.07753,NA,12.35,0,292.948,273.093,0,0,1,0
+"Shark.null","null",16338.7401984826,16419.0369640701,0.04274,NA,11.08,0,1001.383,972.3,0,0,0,0
